@@ -19,6 +19,10 @@ Meanwhile, this project is 100% compatible with vanilla Lua code (So the code ma
 3. Open your lua project, add following code to the first line: `require("dounai-lib")`.
 4. You are now good to go!
 
+## Documentation
+
+[Wiki page](https://github.com/dounai2333/dounai_lib/wiki)
+
 ## TODO
 
 ### Admin system
@@ -36,10 +40,6 @@ Which I wanna extend more events, give us more options to do everything!
 Current plan:
 1. `prop_health_changed`: Hook "func_breakable" `OnHealthChanged` event and fire a in-game event.
 2. `counter_value`: Hook "math_counter" `OutValue` event are fire a in-game event.
-
-## Documentation
-
-[Wiki page](https://github.com/dounai2333/dounai_lib/wiki)
 
 ## Special Thanks
 
