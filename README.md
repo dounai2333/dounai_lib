@@ -19,6 +19,24 @@ Meanwhile, this project is 100% compatible with vanilla Lua code (So the code ma
 3. Open your lua project, add following code to the first line: `require("dounai-lib")`.
 4. You are now good to go!
 
+## TODO
+
+### Admin system
+
+This is the feature that my old project already have, but I wanna create a "better" and "more better" version.
+
+The goal is make a 70% similar admin system in SourceMod, admin can slay, kick, or troll somebody in-game.
+
+### More custom events
+
+Due to limitation of cso2 Lua, we are heavily rely on event system to do most of stuff.
+
+Which I wanna extend more events, give us more options to do everything!
+
+Current plan:
+1. `prop_health_changed`: Hook "func_breakable" `OnHealthChanged` event and fire a in-game event.
+2. `counter_value`: Hook "math_counter" `OutValue` event are fire a in-game event.
+
 ## Documentation
 
 [Wiki page](https://github.com/dounai2333/dounai_lib/wiki)
