@@ -6,20 +6,13 @@ This is a Lua library made for a video game [Counter-Strike: Online 2](https://c
 
 The main goal of this project, is to make Lua coding in CSO2 easier, faster and make your code as much as readable!
 
-There was tons of new additional APIs, with more features and bug fixes, they will save your time a lot!
+There is tons of cool stuff, with more features, new APIs and bug fixes!
 
-Meanwhile, this project is 100% compatible with vanilla Lua code (So the code made by Nexon and you will not get harm).
+And, we are 100% compatible with vanilla Lua system (so the code made by Nexon and you are still fine).
 
-**This project is tested and working in Qingxue and Global server, support with other servers is unknown.**
+**This project is tested and working in Qingxue / Global server, support with other servers is unknown. Feedback required!**
 
-## Installation
-
-1. [Download latest release](https://github.com/dounai2333/dounai_lib/releases/latest).
-2. Unpack it to your main CSO2 folder (The one with "Bin" and "Data" folder exists).
-3. Open your lua project, add following code to the first line: `require("dounai-lib")`.
-4. You are now good to go!
-
-## Documentation
+## Installation and documentation
 
 [Wiki page](https://github.com/dounai2333/dounai_lib/wiki)
 
